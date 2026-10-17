@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 620 560" role="img" aria-labelledby="title desc">
+  <title id="title">Aami Bakes baker illustration</title>
+  <desc id="desc">A warm, faceless illustration of a woman baker wearing a chef hat and apron, with a little cake.</desc>
+  <defs>
+    <linearGradient id="backdrop" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#fff4dc"/><stop offset="1" stop-color="#f7dce8"/></linearGradient>
+    <linearGradient id="apron" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#a84d73"/><stop offset="1" stop-color="#753d66"/></linearGradient>
+    <linearGradient id="cake" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#fff8ec"/><stop offset="1" stop-color="#f7d9bd"/></linearGradient>
+  </defs>
+  <circle cx="310" cy="280" r="250" fill="url(#backdrop)"/>
+  <circle cx="110" cy="140" r="7" fill="#d88b68" opacity=".7"/><circle cx="500" cy="105" r="5" fill="#a96b83" opacity=".6"/>
+  <path d="M92 442c35-34 77-48 125-53h190c47 5 91 20 122 53v70H92z" fill="#eab8c7" opacity=".52"/>
+  <!-- Hair and shoulders frame a deliberately featureless, faceless face. -->
+  <path d="M183 257c0-95 50-145 127-145s128 54 128 147v96H183z" fill="#50362f"/>
+  <path d="M154 495c8-95 49-154 115-171h82c68 17 108 76 116 171z" fill="#fffaf4"/>
+  <path d="M228 245c0-59 30-98 82-98 54 0 84 39 84 98v63c0 58-35 96-84 96-48 0-82-39-82-96z" fill="#bd805f"/>
+  <path d="M222 250c-22-32-18-81 8-112 19-24 49-39 84-39 39 0 71 17 89 46 16 26 18 61 5 89-14-32-38-48-70-48-31 0-65 22-116 64z" fill="#50362f"/>
+  <path d="M219 174c-24-6-34-28-24-48 7-14 23-20 39-17 3-24 22-41 47-41 15-26 56-31 78-9 30-13 63 5 67 35 23 7 34 32 22 53-9 17-28 24-46 19H244c-10 5-17 9-25 8z" fill="#fffdf8" stroke="#e7cdbd" stroke-width="5"/>
+  <path d="M208 168h232v21H208z" fill="#e9d4c3"/>
+  <path d="M203 340c21 15 48 23 81 23h52c32 0 59-8 80-23l28 155H173z" fill="url(#apron)"/>
+  <path d="M250 365l35 26 35-26 34 26 35-26 25 130H213z" fill="#fff8f0" opacity=".96"/>
+  <path d="M276 397l9-9 9 9-9 9zM338 397l9-9 9 9-9 9z" fill="#e7b76f"/>
+  <path d="M219 379l47 50 19-15-39-58M395 379l-48 50-19-15 40-58" fill="none" stroke="#f4d9df" stroke-width="13" stroke-linecap="round"/>
+  <!-- Small celebration cake held in front. -->
+  <path d="M84 422h166v69H84z" fill="url(#cake)" stroke="#d69b7d" stroke-width="4"/>
+  <path d="M84 444c17 13 28-11 45 1s29-9 45 1 30-11 45 0 22-5 31-2" fill="none" stroke="#fffdf8" stroke-width="12" stroke-linecap="round"/>
+  <ellipse cx="167" cy="422" rx="83" ry="18" fill="#fff4e5" stroke="#d69b7d" stroke-width="4"/>
+  <path d="M162 402c0-9 10-9 10-18s-10-10-10-18" fill="none" stroke="#c15b73" stroke-width="5" stroke-linecap="round"/>
+  <path d="M171 402c0-8 9-9 9-17" fill="none" stroke="#e0a34c" stroke-width="5" stroke-linecap="round"/>
+  <path d="M469 160c19 9 32 25 36 48M483 149c16 6 27 17 34 32" fill="none" stroke="#91a47b" stroke-width="5" stroke-linecap="round"/>
+  <circle cx="497" cy="210" r="7" fill="#d98282"/><circle cx="515" cy="183" r="6" fill="#e4a85d"/>
+</svg>
